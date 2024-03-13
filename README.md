@@ -13,6 +13,5 @@ I am currently a Junior pursuing an Electrical and Computer Engineering degree.<
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aseefdurrani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aseefdurrani&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
