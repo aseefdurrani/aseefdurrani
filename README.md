@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Junior pursuing an Electrical and Computer Engineering degree.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am teaching myself Full Stack Development, familiarizing myself with technologies such as React, Next.js, Mongo, SQL, Pinecone, and many more.<br><br>In my (little) free time, I enjoy eating good food, lifting weights, and spending time outside.
+I am currently a Senior pursuing an Electrical and Computer Engineering degree.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am teaching myself Full Stack Development, familiarizing myself with technologies such as React, Next.js, Mongo, SQL, Pinecone, and many more.<br><br>In my (little) free time, I enjoy eating good food, lifting weights, and spending time outside.
 
 
 ## 🌐 Socials:
