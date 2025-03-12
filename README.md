@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently a Senior pursuing an Electrical and Computer Engineering degree.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am teaching myself Full Stack Development, familiarizing myself with technologies such as React, Next.js, Mongo, SQL, Pinecone, and many more.<br><br>In my (little) free time, I enjoy eating good food, lifting weights, and spending time outside.
-
+I am currently a Senior pursuing an Electrical and Computer Engineering degree.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am pursuing a career in AI Engineering and actively expanding my knowledge of AI technologies. This includes familiarizing myself with technologies and frameworks such as LangChain, OpenAI, LangFlow, RAG, LLMs, and Pinecone to build innovative, AI-driven solutions. On top of this I am comfortable with Full Stack Development and am familiar with technologies such as React, Next.js, Mongo, and SQL.<br><br>In my (little) free time, I enjoy eating good food, lifting weights, and spending time outside.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aseefdurrani/) 
