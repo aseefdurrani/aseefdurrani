@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate with a degree in Electrical and Computer Engineering degree.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am pursuing a career in AI Engineering and actively expanding my knowledge of AI technologies to build innovative, AI-driven solutions. On top of this I am comfortable with Full Stack Development and am familiar with technologies such as React, Next.js, Mongo, and SQL.<br><br>In my free time, I enjoy learning about religion, eating good food, and spending time outside.
+I am a recent graduate with a degree in Electrical and Computer Engineering.<br><br>With a deep passion for learning, I am constantly trying to expand my skill set. Currently, I am pursuing a career in AI Engineering and actively expanding my knowledge of AI technologies to build innovative, AI-driven solutions. On top of this I am comfortable with Full Stack Development and am familiar with technologies such as React, Next.js, Mongo, and SQL.<br><br>In my free time, I enjoy learning about religion, eating good food, and spending time outside.
 
 
 ## 🌐 Socials:
